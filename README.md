@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript And React**
 
-- 💬 Ask me about **Fronend Web Development | Flutter | UI/UX Designing**
+- 💬 Ask me about **Front-end Web Development | Flutter | UI/UX Designing**
 
 - 📫 How to reach me **harshparmar.dev@gmail.com**
 
