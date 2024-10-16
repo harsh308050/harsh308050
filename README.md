@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, UI/UX (Figma) and Web Development**
 
-- 📫 How to reach me **harshparmar308050@gmail.com**
+- 📫 How to reach me **harshparmar.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
