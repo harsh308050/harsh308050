@@ -56,6 +56,7 @@
 <a href="https://instagram.com/harsh308050"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/harsh308050/harsh308050/blob/output/github-contribution-grid-snake.svg)
+![](https://github.com/harsh308050/harsh308050/blob/output/github-contribution-grid-snake.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=harsh308050&icon=0&color=0)](https://visitcount.itsvg.in)
