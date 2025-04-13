@@ -45,6 +45,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harsh308050&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh308050&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/harsh308050/harsh308050/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/harsh308050/harsh308050/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -54,9 +60,6 @@
 <a href="mailto:harshparmar.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://linkedin.com/in/harsh308050"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://instagram.com/harsh308050"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
-
-## 🐍 Contribution Snake
-![](https://github.com/harsh308050/harsh308050/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harsh308050&icon=0&color=0)](https://visitcount.itsvg.in)
