@@ -1,10 +1,10 @@
 ![MasterHead](https://appinventiv.com/wp-content/uploads/2022/05/Flutter-web-app.webp)
 <h1 align="center">Heyy <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="30px"> I'm Harsh Parmar</h1>
-<h3 align="center">A Enthusiastic Flutter Developer who loves Website Designing and Developing & UI/UX Designing </h3>
+<h3 align="center">A Flutter Developer who loves UI/UX Designing and App Developing </h3>
 <img align="right" alt="Coding And Designing" width="300" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?w=740&t=st=1717757813~exp=1717758413~hmac=ce699d8a476c7fd65539bfa6f46a066b7a3d1585d8a6474e9785e4d4457275f0">
 
 # 💫 About Me:
-🌱 I’m currently learning React<br>💬 Ask me about Front-end Web Development | Flutter | UI/UX Designing<br>📫 How to reach me harshparmar.dev@gmail.com
+🌱 I’m currently learning State Management In Flutter <br>💬 Ask me about Front-end Web Development | Flutter | UI/UX Designing<br>📫 How to reach me harshparmar.dev@gmail.com
 
 
 ## 🌐 Socials:
