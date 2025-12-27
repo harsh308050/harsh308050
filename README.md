@@ -4,7 +4,7 @@
 <img align="right" alt="Coding And Designing" width="300" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?w=740&t=st=1717757813~exp=1717758413~hmac=ce699d8a476c7fd65539bfa6f46a066b7a3d1585d8a6474e9785e4d4457275f0">
 
 # 💫 About Me:
-🌱 I’m currently learning State Management In Flutter <br>💬 Ask me about Front-end Web Development | Flutter | UI/UX Designing<br>📫 How to reach me harshparmar.dev@gmail.com
+🌱 I’m currently learning State Management In Flutter <br>💬 Ask me about | Flutter | UI/UX Designing | Front-end Web Development.<br>📫 How to reach me harshparmar.dev@gmail.com
 
 
 ## 🌐 Socials:
